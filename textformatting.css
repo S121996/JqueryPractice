@@ -1,0 +1,19 @@
+p{
+    font-size:18px;
+    line-height: 30px;
+    word-spacing:5px; 
+     letter-spacing: 1.5px;
+     font-weight:bold;
+     font-style:italic;
+     text-decoration:overline;
+     text-align:justify;
+     text-transform: capitalize;
+     text-indent:200px;
+     font-family:cursive;
+}
+
+span{
+    font-size: 80px;
+    color:blue;
+    text-transform:uppercase;
+}

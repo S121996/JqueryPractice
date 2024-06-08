@@ -1,0 +1,18 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+h2 ,p {
+    color:red;
+}
+.b,p{
+    background-color: aqua;
+}
+.a,.c,.e{
+background-color: azure;
+}
+p,.a{
+    font-size: 40px;
+}

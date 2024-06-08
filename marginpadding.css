@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h2 {
+    background: red;
+    margin: 100px;
+}
+
+p1 {
+    border: 2px solid bisque;
+    padding: 100px;
+}
+
+h3 {
+    background: blueviolet;
+    margin: 100px 50px 30px 10px;
+}
+
+p2 {
+    border: 2px solid orange;
+    margin: 100px 50px 30px 10px;
+}
+
+h4 {
+    background: greenyellow;
+    margin: 100px 50px 30px;
+}
+
+p4 {
+    border: 2px solid orange;
+    margin: 100px 50px 30px;
+}
+h5{
+    background: orange;
+    margin: 100px 50px 30px;
+}
+p5{
+
+    border: 2px solid green;
+    margin: 100px 50px 30px;
+    padding: 100px 50px;
+}

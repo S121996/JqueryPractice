@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+
+}
+
+body{
+    padding: 50px;
+    background:white;
+}
+
+section {
+    display: flex;
+    justify-content:center;
+    /* justify-content: space-between; */
+    align-items:end;
+
+}
+
+.one{
+    height:300px;
+    width:300px;
+    border-radius: 40px;
+    background-color: #c1c1c1
+}
+.two{
+    height:300px;
+    width:300px;
+    border-radius: 40px;
+    background-color: #c1c1c1
+}
+.three{
+    height:300px;
+    width:300px;
+    border-radius: 40px;
+    background-color: #c1c1c1
+}
